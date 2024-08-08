@@ -1,0 +1,2 @@
+#include <stdio.h>
+int add(int fePuQ, int UZnWW);int main(int zVvlM, char** ZamPB){if(zVvlM<2){return 1;}int BBJQv=5;int WBBFP=2;printf("add:%d\n", add(BBJQv, WBBFP));return 0;}int add(int fePuQ, int UZnWW){return  fePuQ+ UZnWW;}
